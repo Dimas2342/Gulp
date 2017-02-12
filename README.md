@@ -1,4 +1,7 @@
-# Учебная сборка Loftschool
+# Учебная сборка Loftschool | Киман Дмитрий
+  Добавлено 2 таска:
+  1.'sprite:png' (gulp/tasks/sprite.png.js)
+  2.'copy:fonts' (gulp/tasks/copy.fonts.js)
 
 > Сборка работает на gulp версии 4.0. 
 
